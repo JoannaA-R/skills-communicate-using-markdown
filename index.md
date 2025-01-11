@@ -1,5 +1,14 @@
 # Glowny header
 
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] This item is not complete
+- [ ] This item is not complete
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
